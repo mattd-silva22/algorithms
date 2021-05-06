@@ -1,2 +1,2 @@
-# python-3-algorithms
-some python 3.1 algorithms 
+#algorithms
+some algorithms that i use for practice
